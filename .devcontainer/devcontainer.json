@@ -7,7 +7,9 @@
 	"features": {
 		"ghcr.io/devcontainers/features/aws-cli:1": {},
 		"ghcr.io/devcontainers-contrib/features/serverless:2": {},
-		"ghcr.io/joshuanianji/devcontainer-features/aws-cli-persistence:1": {}
+		"ghcr.io/joshuanianji/devcontainer-features/aws-cli-persistence:1": {},
+		"ghcr.io/devcontainers/features/git:1": {},
+		"ghcr.io/devcontainers/features/github-cli:1": {}
 	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
